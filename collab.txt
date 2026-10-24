@@ -1,2 +1,30 @@
+
 Hi, I'm Stephanie, the owner of this repository
   Hello, Collaborator Clarizze
+  GNU nano 9.2                                 collab.txt
+Hi, I'm Stephanie, the owner of this repository
+  Hello, Collaborator Clarizze
+I added this line. Me, the collaborator.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            [ Read 2 lines (converted from DOS format) ]
+^G Help       ^O Write Out  ^F Where Is   ^K Cut        ^T Execute    ^C Location   M-U Undo
+^X Exit       ^R Read File  ^\ Replace    ^U Paste      ^J Justify    ^/ Go To Line M-E Redo
