@@ -1,3 +1,5 @@
+
 Hi, I'm Stephanie, the owner of this repository
-  Hello, Collaborator Clarizze
-A sample line added by me the owner
+Hello, Collaborator Clarizze
+I added this line. Me, the collaborator.
+A sample line added by me the owner.
